@@ -1,0 +1,14 @@
+.mainimg {
+background-image: url(img/main.jpg);
+background-size: cover;
+height: auto;
+background-position: center center;
+background-attachment: fixed;
+}
+
+.navright{
+	background: black;
+	font-color: red;
+	color: white !important;
+	border-radius: 10px;
+}
